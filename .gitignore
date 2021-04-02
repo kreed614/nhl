@@ -1,0 +1,11 @@
+/.DS_Store
+/.vscode
+/__pycache__
+/conceded_penalties.py
+/matchups
+/nhl_stats
+/play_time.py
+/results
+/results_test.html
+/starting_goalies.json
+/temp.json
